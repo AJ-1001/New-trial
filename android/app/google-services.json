@@ -1,0 +1,128 @@
+{
+  "project_info": {
+    "project_number": "220703673234",
+    "firebase_url": "https://eduwise-aae57-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eduwise-aae57",
+    "storage_bucket": "eduwise-aae57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220703673234:android:ae74a82250e701106f0f4b",
+        "android_client_info": {
+          "package_name": "com.example.edumike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220703673234-sg3pi0d2imdd15g4ivmvfg555q1f0qto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEC4tRvZRp69FTml_XoDkhizt8YCb_pYM"
+        },
+        {
+          "current_key": "AIzaSyDgXoonlqPUGBYGM4nOeEirTW1D8PeHNEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220703673234-sg3pi0d2imdd15g4ivmvfg555q1f0qto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220703673234-39ubf91qp7g2ost85jldu40rd6ao4gpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edumike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220703673234:android:4a258270552e74416f0f4b",
+        "android_client_info": {
+          "package_name": "com.example.eduwisep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220703673234-sg3pi0d2imdd15g4ivmvfg555q1f0qto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEC4tRvZRp69FTml_XoDkhizt8YCb_pYM"
+        },
+        {
+          "current_key": "AIzaSyDgXoonlqPUGBYGM4nOeEirTW1D8PeHNEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220703673234-sg3pi0d2imdd15g4ivmvfg555q1f0qto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220703673234-39ubf91qp7g2ost85jldu40rd6ao4gpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edumike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220703673234:android:5eb134cade7172c76f0f4b",
+        "android_client_info": {
+          "package_name": "com.mikestudio.eduwise_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220703673234-sg3pi0d2imdd15g4ivmvfg555q1f0qto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEC4tRvZRp69FTml_XoDkhizt8YCb_pYM"
+        },
+        {
+          "current_key": "AIzaSyDgXoonlqPUGBYGM4nOeEirTW1D8PeHNEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220703673234-sg3pi0d2imdd15g4ivmvfg555q1f0qto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220703673234-39ubf91qp7g2ost85jldu40rd6ao4gpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edumike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

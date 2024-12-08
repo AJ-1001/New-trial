@@ -59,7 +59,7 @@ dependencies:
   hive: any
   shimmer: any
   permission_handler: any
-  contacts_service: ^0.6.3
+  # contacts_service: ^0.6.3
   flutter_cached_pdfview: any
   file_picker: any
   grouped_list: any
